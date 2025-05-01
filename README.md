@@ -31,6 +31,7 @@ Feel free to contribute, report errors, or improve the database.
 If you believe you were added to this list in error, you may submit an appeal.
 
 [![Appeal Here](https://img.shields.io/badge/Appeal-Submit%20Request-blue?style=for-the-badge)](https://www.linkedin.com/signup)
+[![Complaints Here](https://img.shields.io/badge/Complaint-Submit%20Request-yellow?style=for-the-badge)](https://secure.indeed.com/auth)
 
 ---
 

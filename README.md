@@ -6,10 +6,10 @@ This repository contains a **MariaDB** database of over **120,000** Roblox users
 
 Audio bypassers are users on Roblox who upload inappropriate audio with the intent to harm others. This includes:
 
-- **Sexual** content
-- **Racial** slurs
-- **Homophobic** messages
-- **Xenophobic** language
+- **Sexual** content  
+- **Racial** slurs  
+- **Homophobic** messages  
+- **Xenophobic** language  
 
 These users put children at risk by bypassing Roblox’s audio moderation system.
 
@@ -17,14 +17,22 @@ These users put children at risk by bypassing Roblox’s audio moderation system
 
 The database includes:
 
-- **User IDs** of those who have uploaded harmful audio
-- The **Group IDs** where these users were found
+- **User IDs** of those who have uploaded harmful audio  
+- The **Group IDs** where these users were found  
 
 This data helps track and block audio bypassers on Roblox.
 
 ---
 
 Feel free to contribute, report errors, or improve the database.
+
+## Appeals
+
+If you believe you were added to this list in error, you may submit an appeal.
+
+[![Appeal Here](https://img.shields.io/badge/Appeal-Submit%20Request-blue?style=for-the-badge)](https://www.linkedin.com/signup)
+
+---
 
 ## Disclaimer
 

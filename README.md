@@ -1,6 +1,6 @@
 # AudioDeleto
 
-This repository contains a **MariaDB** database of over **120,000** Roblox users who have uploaded harmful audio content.
+This repository contains a **MariaDB** database of over **130,000** Roblox users who have uploaded harmful audio content.
 
 ## Who are these people?
 
